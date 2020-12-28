@@ -14,7 +14,7 @@ import keyboard
 
 
 #global================================================================================================
-mysight = "https://sandeep-shaw10.github.io/sightexplore/"
+mysight = "https://www.instagram.com/san_deep_10/"
 
 #Introduction Window====================================================================================
 class AppIntro(tk.Tk):
